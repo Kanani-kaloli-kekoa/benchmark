@@ -3,6 +3,7 @@
     min-height: 3.5rem;
     margin: 0px 12px 3px;
     padding: 0px 5px 3px 5px;
+    border: solid
 }
 
 head {
@@ -10,8 +11,7 @@ head {
 }
 
 img {
-    max-width: 110%;
-    max-height: 20em;
+    object-fit: contain;
 }
 
 body {
