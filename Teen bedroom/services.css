@@ -18,5 +18,10 @@ body {
 
 img {
     height: 10em;
-    width: 9em;
+    width: em;
+}
+
+.line {
+    border-top: 1.5px solid #d4af37;
+    margin: 5px 0;
 }
