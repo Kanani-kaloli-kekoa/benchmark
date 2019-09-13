@@ -3,33 +3,44 @@
     min-height: 3.5rem;
     margin: 0px 12px 3px;
     padding: 0px 5px 3px 5px;
-    border: solid
+    border: solid;
+    background-color: skyblue;
 }
 
-head {
+<!--.container {
+    min-height: 3.5rem;
+    margin: 0px 12px 3px;
+    padding: 0px 5px 3px 5px;
+    block: inline;
+    background-color: #de5d83;
+}
+
+-->head {
     color: #Dbf3fa;
 }
 
 img {
     object-fit: contain;
+    background-color: skyblue;
 }
 
 body {
-    background-color: #fff;
+    background-color: skyblue;
 }
 
 .home {
-    padding: 0px 12px 3px;
-    margin: 12px;
-    font-display: overlay;
+    padding: 0px 15px 3px;
+    margin: 15px;
 }
 
 .services {
-    margin: 0px 12px 3px;
+    padding: 0px 12px 3px;
+    margin: 12px;
 }
 
 .contact {
-    margin: 0px 12px 3px;
+    padding: 0px 12px 3px;
+    margin: 12px;
 }
 
 .line {
@@ -40,4 +51,11 @@ body {
 .line2 {
     border-top: 1.5px solid #d4af37;
     margin: 5px 0;
+}
+
+a {
+    text-decoration: none;
+    border: solid 1px white;
+    color: white;
+    background-color: #de5d83;
 }
