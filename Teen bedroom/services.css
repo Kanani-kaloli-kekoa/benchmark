@@ -1,11 +1,17 @@
-.home {
-    margin: 12px;
-    padding: 0px 12px 3px;
-    background-color: #de5d83;
-    border: solid 2px white;
-    text-color
-}
-
 a {
     text-decoration: none;
+    margin: 12px;
+    padding: 0px 12px 3px;
+    border: solid 1px white;
+    color: white;
+    background-color: #de5d83;
+    font-family: "Hepta Slab ", serif;
+}
+
+title {
+    font-family: "Hepta Slab ", serif;
+}
+
+body {
+    background-color: skyblue;
 }
