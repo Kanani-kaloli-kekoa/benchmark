@@ -3,7 +3,7 @@ head {
 }
 
 img {
-    object-fit: contain;
+    height: 12em;
     background-color: skyblue;
 }
 
